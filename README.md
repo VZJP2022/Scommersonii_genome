@@ -15,13 +15,7 @@ Releases/CM1.0_Hap2.assembly.fasta.gz: Solanum commersonii haplotype 2 genome se
 ### enrichment database
 
 The KEGG/GO datasets in [https://figshare.com/articles/dataset/enrichment_database/26129590](https://figshare.com/articles/dataset/enrichment_database/26129590).
-
-　　‍
-
 KEGGdatabase\_ScomD.Rdata is diploid KEGG annotation and KEGGdatabase\_ScomH1.Rdata is Haplotype 1 KEGG annotation. org.Scommersonii.eg.db.tar.gz is diploid GOannotation and org.ScommersoniiHap1.eg.db.tar.gz is Haplotype 1 GO annotation.
-
-　　‍
-
 You can using these datasets in R:
 
 ```R
