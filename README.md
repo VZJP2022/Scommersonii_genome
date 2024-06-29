@@ -11,3 +11,7 @@ CM1.0/CM1.0_function.tsv.gz: Gene functional annotation file
 Releases/CM1.0_Hap1.assembly.fasta.gz: Solanum commersonii haplotype 1 genome sequence file
 
 Releases/CM1.0_Hap2.assembly.fasta.gz: Solanum commersonii haplotype 2 genome sequence file
+
+##enrichment database
+
+The KEGG/GO datasets in https://figshare.com/articles/dataset/enrichment_database/26129590
