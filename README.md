@@ -30,6 +30,7 @@ KEGGres <- enricher(genes,
 
 #for GO enrichment analysis
 install.packages('/your/path/to/org.ScommersoniiHap1.eg.db', repos=NULL, type="source")
+library("org.ScommersoniiHap1.eg.db")
 GOres <- enrichGO(gene=genes,
                 OrgDb=org.ScommersoniiHap1.eg.db,
                 keyType="GID",
